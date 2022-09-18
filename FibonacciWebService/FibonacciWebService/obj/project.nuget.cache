@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "usE4a7xeA1iix0xuE0zwqiPeJfkau+tOoYqkBVpaQMh2cxY80WYvO9ob0/BaCB3mWndKTAp0e2xljYGdNOC7Lw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\sistemas-distribuidos\\sistemas-distribuidos-elasticidade\\FibonacciWebService\\FibonacciWebService\\FibonacciWebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ambro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ambro\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ambro\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ambro\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ambro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ambro\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

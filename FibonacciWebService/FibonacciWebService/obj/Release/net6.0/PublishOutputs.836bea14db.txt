@@ -1,0 +1,11 @@
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\FibonacciWebService.exe
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\FibonacciWebService.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\FibonacciWebService.deps.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\FibonacciWebService.runtimeconfig.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\FibonacciWebService.pdb
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\FibonacciWebService\FibonacciWebService\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

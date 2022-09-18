@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RX+IcDscmrb38/YBO78D1jsANEomMiBc0p9KRKrVQQc=",
+  "Source": "FibonacciWebService",
+  "BasePath": "_content/FibonacciWebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

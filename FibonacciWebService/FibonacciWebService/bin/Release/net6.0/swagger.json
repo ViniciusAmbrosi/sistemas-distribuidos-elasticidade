@@ -1,0 +1,30 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "FibonacciWebService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/CPUSimulate": {
+      "get": {
+        "tags": [
+          "CPUSimulate"
+        ],
+        "operationId": "Simulate/{percentage}",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "percentage",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}

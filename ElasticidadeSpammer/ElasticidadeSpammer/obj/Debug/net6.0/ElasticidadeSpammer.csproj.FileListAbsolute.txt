@@ -1,0 +1,15 @@
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\bin\Debug\net6.0\ElasticidadeSpammer.exe
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\bin\Debug\net6.0\ElasticidadeSpammer.deps.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\bin\Debug\net6.0\ElasticidadeSpammer.runtimeconfig.json
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\bin\Debug\net6.0\ElasticidadeSpammer.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\bin\Debug\net6.0\ElasticidadeSpammer.pdb
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.csproj.AssemblyReference.cache
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.AssemblyInfoInputs.cache
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.AssemblyInfo.cs
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.csproj.CoreCompileInputs.cache
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\refint\ElasticidadeSpammer.dll
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.pdb
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ElasticidadeSpammer.genruntimeconfig.cache
+C:\Project\sistemas-distribuidos\sistemas-distribuidos-elasticidade\ElasticidadeSpammer\ElasticidadeSpammer\obj\Debug\net6.0\ref\ElasticidadeSpammer.dll
